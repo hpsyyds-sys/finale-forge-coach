@@ -1,0 +1,7 @@
+interface:
+  display_name: "FinaleForge Coach"
+  short_description: "把课程资料变成可追踪、可续学、会纠错的交互式期末训练教练"
+  default_prompt: "使用 $finale-forge-coach 扫描当前课程资料，建立考点路线，并一次带我学透一个小考点。"
+
+policy:
+  allow_implicit_invocation: true
